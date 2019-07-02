@@ -31,7 +31,7 @@ Python Library (Pip3):
 ## How to Install
 
 1. Download manually from the Github page.
-or
+<br> **or**
 2. Type in your terminal:
 `git clone https://www.github.com/lin8x/skybreak`
 
