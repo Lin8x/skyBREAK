@@ -62,7 +62,7 @@ Most files go to `~/usr/share/skybreak`, `skybreak.desktop` goes to `~/usr/share
 **Alternatives**
 
 If you have the `setup.py` file not work correctly, you can run the tool by doing:
-`sudo python3 ~/directorytofile/skybreak/skybreak.py` (normally at the Home (~/) or Desktop (~/Desktop) folder
+`sudo python3 ~/directorytofile/skybreak/skybreak.py` (normally at the Home (/) or Desktop (/Desktop) folder)
 
 If you have the `setup.py` file work correctly but the `skybreak` command doesn't work, you can run the tool by doing:
 `sudo python3 ~/usr/share/skybreak/skybreak.py`.
