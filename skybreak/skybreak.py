@@ -7,10 +7,10 @@ def menu():
     time.sleep(0.2)
     print(core.green + "Initializing...")
     time.sleep(0.2)
-    print("SkyBREAK ver. 1.5.89")
-    print("Interf. type " + adapter + "/" + monadapter)
+    print(core.green + "SkyBREAK ver. 1.5.89")
+    print(core.green + "Interf. type " + adapter + "/" + monadapter)
     time.sleep(0.2)
-    print("""\n    Welcome to skyBREAK. You have the following crackers installed:
+    print(core.green + """\n    Welcome to skyBREAK. You have the following crackers installed:
         > WEP
         > WPA
         > WPA2""")
@@ -29,7 +29,7 @@ def ALLanswer():
     if answer == "wpa2":
         WPAanswers("WPA2")
     if answer == "help":
-        print("""Select which crack you would like to usse by typing one of the following commands:
+        print(core.green + """Select which crack you would like to usse by typing one of the following commands:
     > WEP
     > WPA
     > WPA2
@@ -37,7 +37,7 @@ Optionally, you can see which crackers you have installed by typing:
     > LIST""")
         ALLanswer()
     elif answer == "list":
-        print("""    > WEP
+        print(core.green + """    > WEP
     > WPA
     > WPA2""")
         ALLanswer()
@@ -59,7 +59,7 @@ def WEPanswers():
                     LOCATION = answer[1]
                     os.system("ls " + LOCATION)
                 except:
-                    print("Please do 'ls <LOCATION>'.")
+                    print(core.green + "Please do 'ls <LOCATION>'.")
             elif answer[0] == "scan":
                 os.system('sudo airodump-ng ' + monadapter + " --encrypt WEP")
             elif answer[0] == "probe":
@@ -68,19 +68,19 @@ def WEPanswers():
                     CH = answer[2]
                     os.system("besside-ng -b" + BSSID + " -c " + CH + " " + monadapter)
                 except:
-                    print("Please do 'probe <BSSID> <CH>'.")
+                    print(core.green + "Please do 'probe <BSSID> <CH>'.")
             elif answer[0] == "crack":
                 try:
                     LOCATION = answer[1]
                     os.system("aircrack-ng " + "./" + LOCATION)
                 except:
-                    print("Please do 'crack <LOCATION>'.")
+                    print(core.green + "Please do 'crack <LOCATION>'.")
             elif answer[0] == "exit":
                 ALLanswer()
             else:
                 print(fullanswer + " is not a recognized command. Type HELP for more information.")
     except KeyboardInterrupt:
-        print("")
+        print(core.green + "")
         ALLanswer()
 
 def WPAanswers(sec):
@@ -96,7 +96,7 @@ def WPAanswers(sec):
                     LOCATION = answer[1]
                     os.system("ls " + LOCATION)
                 except:
-                    print("Please do 'ls <LOCATION>'.")
+                    print(core.green + "Please do 'ls <LOCATION>'.")
             elif answer[0] == "scan":
                 os.system('sudo airodump-ng ' + monadapter)
             elif answer[0] == "capture":
@@ -105,7 +105,7 @@ def WPAanswers(sec):
                     CH = answer[2]
                     os.system("airodump-ng -c " + CH + " --bssid " + BSSID + " -w . " + monadapter)
                 except:
-                    print("Please do 'capture <BSSID> <CH>'.")
+                    print(core.green + "Please do 'capture <BSSID> <CH>'.")
             elif answer[0] == "crack":
                 try:
                     BSSID = answer[1]
@@ -113,13 +113,13 @@ def WPAanswers(sec):
                     LOCATION = answer[3]
                     os.system("aircrack-ng -a2 -b " + BSSID + " -w " + PASSWORDLIST + " " + LOCATION)
                 except:
-                    print("Please do 'crack <BSSID> <PASSWORDLIST> <LOCATION>'.")
+                    print(core.green + "Please do 'crack <BSSID> <PASSWORDLIST> <LOCATION>'.")
             elif answer[0] == "exit":
                 ALLanswer()
             else:
                 print(fullanswer + " is not a recognized command. Type HELP for more information.")
     except KeyboardInterrupt:
-        print("")
+        print(core.green + "")
         ALLanswer()
 
 core.clear()
