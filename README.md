@@ -18,9 +18,22 @@ Check out more about the game ![here](https://store.steampowered.com/app/720250/
 
 ## Requirements
 
+Operating System:
+* Linux (Debian/Ubuntu Based: Preferably ![Kali Linux](www.kali.org))
+
+Python Library (Pip3):
+* python3
+* pip3
+* ![os](https://docs.python.org/3/library/os.html)
+
 ------------------------------------------------------------------------
 
 ## How to Install
+
+1. Download manually from the Github page.
+or
+2. Type in your terminal:
+`git clone https://www.github.com/lin8x/skybreak`
 
 ------------------------------------------------------------------------
 
