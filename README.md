@@ -20,7 +20,7 @@ The game puts you to the task of saving a girl, Amalea, and how to get there. Yo
 ## Requirements
 
 Operating System:
-* Linux (Debian/Ubuntu Based: Preferably ![Kali Linux](www.kali.org))
+* Linux (Debian/Ubuntu Based: Preferably [Kali Linux](www.kali.org))
 
 Packages:
 * [aircrack-ng](https://www.aircrack-ng.org/doku.php?id=downloads) (All are installed together with aircrack-ng)
