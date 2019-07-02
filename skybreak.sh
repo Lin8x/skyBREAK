@@ -1,3 +1,3 @@
 #!/usr/bin/bash
 
-sudo python3 ~/usr/share/skybreak/skybreak.py
+sudo python3 /usr/share/skybreak/skybreak.py
