@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=SkyBREAK
 Comment=Activate SkyBREAK
-Exec=/usr/bin/skybreak.sh
+Exec=/usr/bin/skyBREAK
 Icon=/usr/share/skybreak/skybreaklogo.jpg
 Terminal=true
 Type=Application
