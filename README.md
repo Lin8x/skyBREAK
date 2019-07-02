@@ -53,7 +53,11 @@ Open your terminal and type:
 and
 `sudo python3 setup.py`
 
-Once its finished, type and enter `skyBREAK` to run the tool.
+**Once Finished Setup** <br>
+1. Type and enter `skyBREAK` to run the tool.
+###### OR
+2. Open the application in your application menu
+
 
 **Troubleshooting**
 
