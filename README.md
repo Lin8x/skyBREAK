@@ -4,7 +4,7 @@
 
 ------------------------------------------------------------------------
 
-### What is skyBREAK and wheres it from?
+## What is skyBREAK and wheres it from?
 
 A WiFi cracking tool based on the game "Welcome To The Game 2".
 
@@ -19,30 +19,28 @@ Check out more about the game ![here](https://store.steampowered.com/app/720250/
 
 ------------------------------------------------------------------------
 
-### Requirements
+## Requirements
 
 ------------------------------------------------------------------------
 
-### How to Install
+## How to Install
 
 ------------------------------------------------------------------------
 
-### How to Run
+## How to Run
 
 ------------------------------------------------------------------------
 
-### Contributing &nbsp; :star2:
+## Contributing &nbsp; :star2:
 
-Please read ![CONTRIBUTING.md](https://github.com/Lin8x/airline-crack/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
-You can see ![CHANGESLOG.md](https://github.com/Lin8x/airline-crack/blob/master/CHANGESLOG.md) for details of changes to the tool for each update.
+Please read ![CONTRIBUTING.md](https://github.com/Lin8x/skyBREAK/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 See also the list of contributors who participated in this project.
 
 ------------------------------------------------------------------------
 
-### License
+## License
 
-This project is licensed under the GNU General Public License (v3.0) - see the ![LICENSE.md](https://github.com/Lin8x/airline-crack/blob/master/LICENSE) file for details.
+This project is licensed under the GNU General Public License (v3.0) - see the ![LICENSE.md](https://github.com/Lin8x/skyBREAK/blob/master/LICENSE) file for details.
 
 ------------------------------------------------------------------------
