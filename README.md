@@ -1,7 +1,7 @@
 ------------------------------------------------------------------------
 
 # :cloud: &nbsp; skyBREAK &nbsp; :cloud:
-<img src="https://steamuserimages-a.akamaihd.net/ugc/941708627458956135/42128EC5889AF5B6132F75AC33DF2991C55A8DCB/" width="100%" height="150">
+<img src="https://steamuserimages-a.akamaihd.net/ugc/941708627458956135/42128EC5889AF5B6132F75AC33DF2991C55A8DCB/" width="100%" height="190">
 
 ------------------------------------------------------------------------
 
