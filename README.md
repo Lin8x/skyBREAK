@@ -31,7 +31,7 @@ Check out more about the game ![here](https://store.steampowered.com/app/720250/
 
 ------------------------------------------------------------------------
 
-## Contributing &nbsp; :star2:
+## Contributing
 
 Please read ![CONTRIBUTING.md](https://github.com/Lin8x/skyBREAK/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
