@@ -55,7 +55,7 @@ and
 
 **Once Finished Setup** <br>
 1. Type and enter `skyBREAK` to run the tool.
-###### OR
+###### or
 2. Open the application in your application menu
 
 
