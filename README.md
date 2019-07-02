@@ -45,6 +45,13 @@ Open your terminal and type:
 
 Once its finished, type and enter `skybreak` to run the tool.
 
+**Troubleshooting**
+If typing `skybreak` does not work, then either you did not run the `setup.py` file or your linux distro doesn't support the file setup it uses.
+
+Most files go to `~/usr/share/skybreak` and the `skybreak.sh` goes to `~/usr/bin`.
+
+An alternative way to run the tool is `sudo python3 ~/usr/share/skybreak/skybreak.py`.
+
 ------------------------------------------------------------------------
 
 ## Contributing
