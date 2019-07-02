@@ -52,20 +52,20 @@ Open your terminal and type:
 `chmod +x *`
 and
 `sudo python3 setup.py`
-<br>
+<br><br>
 
 **Once Finished Setup** <br>
 1. Type and enter `skyBREAK` to run the tool.
 ###### or
 2. Open the application in your application menu
-<br>
+<br><br>
 
 **Troubleshooting**
 
 If typing `skyBREAK` does not work, then either you did not run the `setup.py` file or your linux distro doesn't support the file setup it uses.
 
 Most files go to `/usr/share/skybreak`, `skybreak.desktop` goes to `/usr/share/applications/`, and `skyBREAK` goes to `/usr/bin`.
-<br>
+<br><br>
 
 **Alternatives**
 
