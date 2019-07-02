@@ -58,13 +58,13 @@ def help(cracker):
     ls <LOCATION> - Use this command to list your directories in order to find your wep files are.
         - LOCATION: This is the directory you are looking into for files
 
-    scan - Use this command to scan the area for active WEP/WPA/WPA2 networks within a range. It will display
+    scan - Use this command to scan the area for active WEP/WPA/WPA2 networks within a range.
         - ESSID: The friendly network name you see in the Network Manager.
         - BSSID: The network device address, used for probing and cracking.
         - CH: Short for channel in which the wireless device is operating on. Used for probing.
         - PWR: The strength that the signals carry, lower the better.
 
-    probe <BSSID> <CH> - Used to attack a wireless network to flood the network and extract the WEP Key
+    probe <BSSID> <CH> - Used to attack a wireless network to flood the network and extract the WEP Key.
         - BSSID: The network device ID to which you will want to target.
         - CH: Short for channel in which the wireless device is operating on. Used for probing.
 
@@ -84,7 +84,7 @@ def help(cracker):
     ls <LOCATION> - Use this command to list your directories in order to find your .cap files.
        - LOCATION: This is the directory you are looking into for files
 
-    scan - Use this command to scan the area for active WEP/WPA/WPA2 networks within a range. It will display
+    scan - Use this command to scan the area for active WEP/WPA/WPA2 networks within a range.
         - ESSID: The friendly network name you see in the Network Manager.
         - BSSID: The network device address, used for probing and cracking.
         - CH: Short for channel in which the wireless device is operating on. Used for probing.
