@@ -4,7 +4,7 @@
 
 ------------------------------------------------------------------------
 
-## What is skyBREAK and wheres it from?
+## What is skyBREAK & Wheres it from?
 
 ![image of skyBREAK and real life game skyBREAK](http://i66.tinypic.com/2im81gn.jpg)
 
