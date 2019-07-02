@@ -6,10 +6,7 @@
 
 ## What is skyBREAK and wheres it from?
 
-A WiFi cracking tool based on the game "Welcome To The Game 2".
-
-<img src="http://i65.tinypic.com/2visbjc.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"> <img src="https://pbs.twimg.com/media/DKV73EqXkAIcDDO.jpg" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
-<p style="clear: both;">
+[image of skyBREAK and real life game skyBREAK](imgonline-com-ua-twotoone-CNnkPEQerQZuK9W.jpg)
 
 ![Welcome to the Game II](https://store.steampowered.com/app/720250/Welcome_to_the_Game_II/) is an atmospheric horror / strategy / puzzle game that takes you into the world of the deep web, in search of the shadow web. 
 
