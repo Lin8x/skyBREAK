@@ -25,6 +25,7 @@ Python Library (Pip3):
 * python3
 * pip3
 * ![os](https://docs.python.org/3/library/os.html)
+* ![time](https://docs.python.org/3/library/time.html)
 
 ------------------------------------------------------------------------
 
