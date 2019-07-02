@@ -21,6 +21,13 @@ Check out more about the game ![here](https://store.steampowered.com/app/720250/
 Operating System:
 * Linux (Debian/Ubuntu Based: Preferably ![Kali Linux](www.kali.org))
 
+Packages:
+* [aircrack-ng](https://www.aircrack-ng.org/doku.php?id=downloads) (All are installed together with aircrack-ng)
+* * [airmon-ng](https://www.aircrack-ng.org/doku.php?id=airmon-ng)
+* * [airodump-ng](https://www.aircrack-ng.org/doku.php?id=airodump-ng)
+* * [aireplay-ng](https://www.aircrack-ng.org/doku.php?id=aireplay-ng)
+* * [besside-ng](https://www.aircrack-ng.org/doku.php?id=besside-ng)
+
 Python Library (Pip3):
 * python3
 * pip3
