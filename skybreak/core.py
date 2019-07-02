@@ -13,7 +13,7 @@ white = '\033[0m'
 cwhite = '\33[37m'
 black ='\033[30m'
 red = '\033[31m'
-green = '\033[32m'
+green = '\033[92m'
 orange = '\033[33m'
 blue = '\033[34m'
 purple = '\033[35m'
@@ -46,13 +46,13 @@ def clear():
 
 def help(cracker):
     if cracker == "WEP":
-        print("The " + cracker + " Cracker has the following commands:")
-        print("""        > exit
+        print(green + "The " + cracker + " Cracker has the following commands:")
+        print(green + """        > exit
         > ls <LOCATION>
         > scan
         > probe <BSSID> <CH>
         > crack <LOCATION>""")
-        print("""
+        print(green + """
     exit - Use this command to leave the WEP cracker and go back to the main mode.
 
     ls <LOCATION> - Use this command to list your directories in order to find your wep files are.
@@ -72,13 +72,13 @@ def help(cracker):
         - LOCATION: The directory to where the ./wep file is.
     """)
     else:
-        print("The " + cracker + " Cracker has the following commands:")
-        print("""        > exit
+        print(green + "The " + cracker + " Cracker has the following commands:")
+        print(green + """        > exit
         > ls <LOCATION>
         > scan
         > capture <BSSID> <CH>
         > crack <BSSID> <PASSWORDLIST> <LOCATION>""")
-        print("""
+        print(green + """
     exit - Use this command to leave the WEP cracker and go back to the main mode.
 
     ls <LOCATION> - Use this command to list your directories in order to find your .cap files.
