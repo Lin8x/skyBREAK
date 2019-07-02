@@ -14,6 +14,7 @@
 The game puts you to the task of saving a girl, Amalea, and how to get there. You are tasked to seek out 8 hidden hashes to decrypt the shadow web browser. You do this by using a simulated computer operating system on a computer. This simulated operating system will come with tools to help you on your way. One of these tools is a wifi hacking tool called "![skyBREAK](https://welcometothegame.fandom.com/wiki/SkyBREAK)", based on the real life tool, ![Aircrack-ng](https://www.aircrack-ng.org/).
 
 Check out more about the game ![here](https://store.steampowered.com/app/720250/Welcome_to_the_Game_II/)!
+Feel free to support the ![creators](http://www.reflectstudios.com/) of the game!
 
 ------------------------------------------------------------------------
 
