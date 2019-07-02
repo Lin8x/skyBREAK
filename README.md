@@ -1,7 +1,7 @@
 ------------------------------------------------------------------------
 
 # :cloud: &nbsp; skyBREAK &nbsp; :cloud:
-![w2tg2](https://steamuserimages-a.akamaihd.net/ugc/941708627458956135/42128EC5889AF5B6132F75AC33DF2991C55A8DCB/)
+![w2tg2](https://crotorrents.com/wp-content/uploads/2018/04/Welcome-to-the-Game-II-Free-Download.jpg)
 
 ------------------------------------------------------------------------
 
