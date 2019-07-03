@@ -2,6 +2,6 @@
 Name=SkyBREAK
 Comment=Activate SkyBREAK
 Exec=/usr/bin/skyBREAK
-Icon=/usr/share/skybreak/skybreaklogo.jpg
+Icon=/usr/share/skybreak/skybreaklogo.png
 Terminal=true
 Type=Application
