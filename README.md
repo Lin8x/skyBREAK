@@ -80,9 +80,9 @@ If you have the `setup.py` file work correctly but the `skyBREAK` command doesn'
 
 ## Screenshots
 
-![skybreakappondock](https://imgur.com/NZSmUmD)
+![skybreakappondock](https://i.imgur.com/NZSmUmD.png)
 
-ّ![skybreakappmenu](https://imgur.com/YQ2IMeC)
+ّ![skybreakappmenu](https://i.imgur.com/YQ2IMeC.png)
 
 ------------------------------------------------------------------------
 
