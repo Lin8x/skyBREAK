@@ -75,6 +75,15 @@ If you have the `setup.py` file not work correctly, you can run the tool by doin
 If you have the `setup.py` file work correctly but the `skyBREAK` command doesn't work, you can run the tool by doing:
 `sudo python3 /usr/share/skybreak/skybreak.py`.
 
+
+------------------------------------------------------------------------
+
+## Screenshots
+
+![skybreakappondock](https://imgur.com/NZSmUmD)
+
+ّ![skybreakappmenu](https://imgur.com/YQ2IMeC)
+
 ------------------------------------------------------------------------
 
 ## Contributing
