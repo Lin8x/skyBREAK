@@ -54,6 +54,8 @@ def WEPanswers():
             answer = answer.split(" ")
             if answer[0] == "help":
                 core.help("WEP")
+            elif answer[0] == "clear":
+                os.system("clear")
             elif answer[0] == "ls":
                 try:
                     LOCATION = answer[1]
@@ -91,6 +93,8 @@ def WPAanswers(sec):
             answer = answer.split(" ")
             if answer[0] == "help":
                 core.help("WPA")
+            elif answer[0] == "clear":
+                os.system("clear")
             elif answer[0] == "ls":
                 try:
                     LOCATION = answer[1]
