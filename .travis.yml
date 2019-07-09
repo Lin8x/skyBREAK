@@ -5,4 +5,4 @@ python:
  - "3.6-dev"  # 3.6 development branch
 install:
  - pip3 install --upgrade pip
-script: ./skyBREAK
+script: python3 /skybreak/skybreak.py
