@@ -69,7 +69,7 @@ If typing `skyBREAK` does not work, then either you did not run the `setup.py` f
 Most files go to `/usr/share/skybreak`, `skybreak.desktop` goes to `/usr/share/applications/`, and `skyBREAK` goes to `/usr/bin`.
 <br><br>
 
-**Alternatives**
+#### <p align="center"> Alternatives <p>
 
 If you have the `setup.py` file not work correctly, you can run the tool by doing:
 `sudo python3 /directorytofile/skybreak/skybreak.py` (normally at the Home (/) or Desktop (/Desktop) folder)
