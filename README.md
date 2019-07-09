@@ -6,6 +6,7 @@
 ------------------------------------------------------------------------
 
 ## <p align="center"> <img src="https://i.ibb.co/7KvXh8Z/26162-200-1-30x30.png" alt="googleot" width="20" height="20"> &nbsp; About SkyBREAK &nbsp; <img src="https://i.ibb.co/7KvXh8Z/26162-200-1-30x30.png" alt="googleot" width="20" height="20"> </p>
+<img alt="kaliimage1" src="https://i.imgur.com/NZSmUmD.png" width="30%" height="222"><img alt="kaliimage2" src="https://i.imgur.com/YQ2IMeC.png" width="30%" height="222">
 
 ![image of skyBREAK and real life game skyBREAK](http://i66.tinypic.com/2im81gn.jpg)
 
@@ -74,15 +75,6 @@ If you have the `setup.py` file not work correctly, you can run the tool by doin
 
 If you have the `setup.py` file work correctly but the `skyBREAK` command doesn't work, you can run the tool by doing:
 `sudo python3 /usr/share/skybreak/skybreak.py`.
-
-
-------------------------------------------------------------------------
-
-## <p align="center"> Screenshots </p>
-
-![skybreakappondock](https://i.imgur.com/NZSmUmD.png)
-
-ّ![skybreakappmenu](https://i.imgur.com/YQ2IMeC.png)
 
 ------------------------------------------------------------------------
 
