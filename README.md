@@ -1,11 +1,11 @@
 ------------------------------------------------------------------------
 
-# :cloud: &nbsp; skyBREAK &nbsp; :cloud:
-<img src="https://steamuserimages-a.akamaihd.net/ugc/941708627458956135/42128EC5889AF5B6132F75AC33DF2991C55A8DCB/" width="100%" height="190">
+# <p align="center"> :cloud: &nbsp; skyBREAK &nbsp; :cloud: </p>
+<p align="center"> <img src="https://steamuserimages-a.akamaihd.net/ugc/941708627458956135/42128EC5889AF5B6132F75AC33DF2991C55A8DCB/" width="100%" height="190"> </p>
 
 ------------------------------------------------------------------------
 
-## About skyBREAK
+## <p align="center"> About skyBREAK </p>
 
 ![image of skyBREAK and real life game skyBREAK](http://i66.tinypic.com/2im81gn.jpg)
 
@@ -17,7 +17,7 @@ The game puts you to the task of saving a girl, Amalea, and how to get there. Yo
 
 ------------------------------------------------------------------------
 
-## Requirements
+## <p align="center"> Requirements </p>
 
 Operating System:
 * Linux (Debian/Ubuntu Based: Preferably [Kali Linux](www.kali.org))
@@ -37,7 +37,7 @@ Python Library (Pip3):
 
 ------------------------------------------------------------------------
 
-## How to Install
+## <p align="center"> ![download logo](https://i.ibb.co/fXV1fGD/download.png") &nbsp; How to Install &nbsp; ![download logo](https://i.ibb.co/fXV1fGD/download.png") </p>
 
 1. Download manually from the Github page.
 ###### or
@@ -46,7 +46,7 @@ Python Library (Pip3):
 
 ------------------------------------------------------------------------
 
-## How to Run
+## <p align="center"> <img src="https://image.flaticon.com/icons/png/512/59/59108.png" alt="googleot" width="20" height="20"> &nbsp; How to Run &nbsp; <img src="https://image.flaticon.com/icons/png/512/59/59108.png" alt="googleot" width="20" height="20"> </p>
 
 Open your terminal and type:
 `chmod +x *`
@@ -54,13 +54,13 @@ and
 `sudo python3 setup.py`
 <br><br>
 
-**Once Finished Setup** <br>
+#### <p align="center"> Once Finished Setup </p> <br>
 1. Type and enter `skyBREAK` to run the tool.
 ###### or
 2. Open the application in your application menu
 <br><br>
 
-**Troubleshooting**
+#### <p align="center"> Troubleshooting </p>
 
 If typing `skyBREAK` does not work, then either you did not run the `setup.py` file or your linux distro doesn't support the file setup it uses.
 
@@ -78,7 +78,7 @@ If you have the `setup.py` file work correctly but the `skyBREAK` command doesn'
 
 ------------------------------------------------------------------------
 
-## Screenshots
+## <p align="center"> Screenshots </p>
 
 ![skybreakappondock](https://i.imgur.com/NZSmUmD.png)
 
@@ -86,7 +86,7 @@ If you have the `setup.py` file work correctly but the `skyBREAK` command doesn'
 
 ------------------------------------------------------------------------
 
-## Contributing
+## <p align="center"> <p align="center"> <img src="http://cdn.onlinewebfonts.com/svg/img_452175.png" alt="googleot" width="30" height="20"> &nbsp; Contributing &nbsp; <img src="http://cdn.onlinewebfonts.com/svg/img_452175.png" alt="googleot" width="30" height="20"> </p>
 
 Please read [CONTRIBUTING.md](https://github.com/Lin8x/skyBREAK/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
@@ -96,7 +96,7 @@ Please support the [creators](http://www.reflectstudios.com/) of **Welcome to th
 
 ------------------------------------------------------------------------
 
-## License
+## <p align="center"> <img src="http://icons.iconarchive.com/icons/custom-icon-design/mono-general-2/256/document-icon.png" alt="googlelicenseicon" width="20" height="20"> &nbsp; License &nbsp; <img src="http://icons.iconarchive.com/icons/custom-icon-design/mono-general-2/256/document-icon.png" alt="googlelicenseicon" width="20" height="20"> </p>
 
 This project is licensed under the GNU General Public License (v3.0) - see the [LICENSE.md](https://github.com/Lin8x/skyBREAK/blob/master/LICENSE) file for details.
 
