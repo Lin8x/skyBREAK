@@ -5,3 +5,4 @@ python:
  - "3.6-dev"  # 3.6 development branch
 install:
   - pip3 install -r requirements.txt
+script: ./skyBREAK
