@@ -1,4 +1,7 @@
 os: linux
 language: python
-rvm:
- - 3.6.7
+python:
+ - "3.6"
+ - "3.6-dev"  # 3.6 development branch
+install:
+  - pip install -r requirements.txt
