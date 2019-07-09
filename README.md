@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------
 
-## <p align="center"> About skyBREAK </p>
+## <p align="center"> <img src="https://i.ibb.co/7KvXh8Z/26162-200-1-30x30.png" alt="googleot" width="20" height="20"> &nbsp; About SkyBREAK &nbsp; <img src="https://i.ibb.co/7KvXh8Z/26162-200-1-30x30.png" alt="googleot" width="20" height="20"> </p>
 
 ![image of skyBREAK and real life game skyBREAK](http://i66.tinypic.com/2im81gn.jpg)
 
@@ -17,7 +17,7 @@ The game puts you to the task of saving a girl, Amalea, and how to get there. Yo
 
 ------------------------------------------------------------------------
 
-## <p align="center"> Requirements </p>
+## <p align="center"> <img src="https://i.ibb.co/GPtkjY1/60889-200-29x29.png" alt="googleot" width="20" height="20"> &nbsp; Requirements &nbsp; <img src="https://i.ibb.co/GPtkjY1/60889-200-29x29.png" alt="googleot" width="20" height="20"> </p>
 
 Operating System:
 * Linux (Debian/Ubuntu Based: Preferably [Kali Linux](www.kali.org))
