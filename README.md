@@ -7,7 +7,7 @@
 
 ## <p align="center"> <img src="https://i.ibb.co/7KvXh8Z/26162-200-1-30x30.png" alt="googleot" width="20" height="20"> &nbsp; About SkyBREAK &nbsp; <img src="https://i.ibb.co/7KvXh8Z/26162-200-1-30x30.png" alt="googleot" width="20" height="20"> </p>
 
-<p align="center"> <img alt="kaliimage1" src="https://github.com/Lin8x/skyBREAK/blob/master/screenshotoftool.png" width="25%" height="20%"> &nbsp; &nbsp; <img alt="kaliimage2" src="https://github.com/Lin8x/skyBREAK/blob/master/screenshotoftoolapp.png" width="25%" height="20%"> &nbsp; &nbsp; <img alt="ingameimage" src="https://github.com/Lin8x/skyBREAK/blob/master/Capture.PNG" width="25%" height="20%"> </p>
+<p align="center"> <img alt="kaliimage1" src="https://github.com/Lin8x/skyBREAK/blob/master/screenshotoftool.png" width="25%" height="20%"> &nbsp; &nbsp; <img alt="kaliimage2" src="https://github.com/Lin8x/skyBREAK/blob/master/screenshotoftoolapp.png" width="25%" height="20%"> &nbsp; &nbsp; <img alt="ingameimage" src="https://github.com/Lin8x/skyBREAK/blob/master/Capture.PNG" width="25%" height="25%"> </p>
 
 **[Welcome to the Game II](https://store.steampowered.com/app/720250/Welcome_to_the_Game_II/)** is an atmospheric horror / strategy / puzzle game that takes you into the world of the deep web, in search of the shadow web. 
 
