@@ -1,13 +1,13 @@
 ------------------------------------------------------------------------
 
 # <p align="center"> <img src="https://raw.githubusercontent.com/Lin8x/skyBREAK/master/skybreak/skybreaklogo.png" alt="googleot" width="60" height="60"> &nbsp; SkyBREAK &nbsp; <img src="https://raw.githubusercontent.com/Lin8x/skyBREAK/master/skybreak/skybreaklogo.png" alt="googleot" width="60" height="60"> </p>
-<p align="center"> <img src="https://steamuserimages-a.akamaihd.net/ugc/941708627458956135/42128EC5889AF5B6132F75AC33DF2991C55A8DCB/" width="100%" height="190"> </p>
+<p align="center"> <img src="https://github.com/Lin8x/skyBREAK/blob/master/welcometogamelogo.jfif" width="100%" height="190"> </p>
 
 ------------------------------------------------------------------------
 
 ## <p align="center"> <img src="https://i.ibb.co/7KvXh8Z/26162-200-1-30x30.png" alt="googleot" width="20" height="20"> &nbsp; About SkyBREAK &nbsp; <img src="https://i.ibb.co/7KvXh8Z/26162-200-1-30x30.png" alt="googleot" width="20" height="20"> </p>
 
-<p align="center"> <img alt="kaliimage1" src="https://i.imgur.com/NZSmUmD.png" width="15%" height="5%"> &nbsp; &nbsp; <img alt="kaliimage2" src="https://i.imgur.com/YQ2IMeC.png" width="15%" height="5%"> </p>
+<p align="center"> <img alt="kaliimage1" src="https://github.com/Lin8x/skyBREAK/blob/master/screenshotoftool.png" width="15%" height="5%"> &nbsp; &nbsp; <img alt="kaliimage2" src="https://github.com/Lin8x/skyBREAK/blob/master/screenshotoftoolapp.png" width="15%" height="5%"> </p>
 
 ![image of skyBREAK and real life game skyBREAK](http://i66.tinypic.com/2im81gn.jpg)
 
