@@ -1,3 +1,7 @@
+-----------------------------------------------------------------------
+
+# I AM NOT RESPONSIBLE FOR WHAT YOU DO WITH THIS TOOL! THIS WAS A FAN-MADE CREATION TO SEE IF REINACTING TOOLS AND ACTIONS OF THE TOOL IN THE GAME ARE POSSIBLE! THERE IS NO INTENTION OF HARM OR POSSIBLE DAMAGE DURING THE CREATION OR PUBLISHMENT OF THIS TOOL! I AM NOT RESPONSIBLE FOR WHAT ANY VIEWERS/DOWNLOADERS OF THIS TOOL DO! USE AT YOUR OWN RISK!
+
 ------------------------------------------------------------------------
 
 # <p align="center"> <img src="https://raw.githubusercontent.com/Lin8x/skyBREAK/master/skybreak/skybreaklogo.png" alt="googleot" width="60" height="60"> &nbsp; SkyBREAK &nbsp; <img src="https://raw.githubusercontent.com/Lin8x/skyBREAK/master/skybreak/skybreaklogo.png" alt="googleot" width="60" height="60"> </p>
