@@ -9,7 +9,7 @@
 
 <p align="center"> <img alt="kaliimage1" src="https://github.com/Lin8x/skyBREAK/blob/master/screenshotoftool.png" width="15%" height="5%"> &nbsp; &nbsp; <img alt="kaliimage2" src="https://github.com/Lin8x/skyBREAK/blob/master/screenshotoftoolapp.png" width="15%" height="5%"> </p>
 
-![image of skyBREAK and real life game skyBREAK](https://github.com/Lin8x/skyBREAK/blob/master/Capture.PNG)
+<p align="center"> <img alt="ingameimage" src="https://github.com/Lin8x/skyBREAK/blob/master/Capture.PNG" width="15%" height="5%">
 
 **[Welcome to the Game II](https://store.steampowered.com/app/720250/Welcome_to_the_Game_II/)** is an atmospheric horror / strategy / puzzle game that takes you into the world of the deep web, in search of the shadow web. 
 
