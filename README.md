@@ -45,16 +45,14 @@ Python Library (Pip3):
 
 ------------------------------------------------------------------------
 
-## <p align="center"> ![download logo](https://i.ibb.co/fXV1fGD/download.png") &nbsp; How to Install &nbsp; ![download logo](https://i.ibb.co/fXV1fGD/download.png") </p>
+## <p align="center"> ![download logo](https://i.ibb.co/fXV1fGD/download.png") &nbsp; How to Download &nbsp; ![download logo](https://i.ibb.co/fXV1fGD/download.png") </p>
 
-1. Download manually from the Github page.
-###### or
-2. Type in your terminal:
-`git clone https://www.github.com/lin8x/skybreak`
+ONLY STABLE METHOD:
+1. Download manually from the [Github Release Page](https://github.com/Lin8x/skyBREAK/releases/tag/Release).
 
 ------------------------------------------------------------------------
 
-## <p align="center"> <img src="https://image.flaticon.com/icons/png/512/59/59108.png" alt="googleot" width="20" height="20"> &nbsp; How to Run &nbsp; <img src="https://image.flaticon.com/icons/png/512/59/59108.png" alt="googleot" width="20" height="20"> </p>
+## <p align="center"> <img src="https://image.flaticon.com/icons/png/512/59/59108.png" alt="googleot" width="20" height="20"> &nbsp; How to Install &nbsp; <img src="https://image.flaticon.com/icons/png/512/59/59108.png" alt="googleot" width="20" height="20"> </p>
 
 Open your terminal and type:
 `chmod +x *`
